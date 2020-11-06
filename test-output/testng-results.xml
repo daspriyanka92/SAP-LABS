@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102180" started-at="2019-03-12T13:05:51Z" finished-at="2019-03-12T13:07:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102180" started-at="2019-03-12T13:05:51Z" finished-at="2019-03-12T13:07:33Z">
+      <class name="com.comCast.Project.EditProject">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.comCast.Project.EditProject@39c0f4a]" name="launchBrowser" is-config="true" duration-ms="13008" started-at="2019-03-12T13:05:51Z" finished-at="2019-03-12T13:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:com.comCast.Project.EditProject@39c0f4a]" name="loginApp" is-config="true" duration-ms="10398" started-at="2019-03-12T13:06:04Z" finished-at="2019-03-12T13:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method status="PASS" signature="createProject()[pri:0, instance:com.comCast.Project.EditProject@39c0f4a]" name="createProject" duration-ms="75722" started-at="2019-03-12T13:06:15Z" finished-at="2019-03-12T13:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+        <test-method status="PASS" signature="logoutApp()[pri:0, instance:com.comCast.Project.EditProject@39c0f4a]" name="logoutApp" is-config="true" duration-ms="3" started-at="2019-03-12T13:07:30Z" finished-at="2019-03-12T13:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.comCast.Project.EditProject@39c0f4a]" name="closeBrowser" is-config="true" duration-ms="2978" started-at="2019-03-12T13:07:30Z" finished-at="2019-03-12T13:07:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.comCast.Project.EditProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
